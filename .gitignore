@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Ambiente
+.env
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
+# Power BI
+*.pbix.bak
+
+# Saídas temporárias de teste
+out/
+testout/
