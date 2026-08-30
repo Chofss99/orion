@@ -20,3 +20,9 @@ Thumbs.db
 # Saídas temporárias de teste
 out/
 testout/
+
+# Credenciais Oracle — nunca versionar
+wallet*/
+*.sso
+*.p12
+*.pem
