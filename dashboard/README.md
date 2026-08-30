@@ -1,6 +1,6 @@
 # Painel Power BI
 
-O arquivo `orion.pbix` contém as duas páginas do painel: Visão geral e
+O arquivo `orion_dark.pbix` contém as duas páginas do painel: Visão geral e
 Detalhe por UF.
 
 Conecta ao Oracle Autonomous AI Database em modo Importar. Para abrir
